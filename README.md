@@ -1,6 +1,6 @@
 # 42 School Piscine
 
-- [Description](##Description)
+- [Description](#description)
 - [C Skills Developed](#visão-geral-do-currículo)
 - [Shell Skills Developed](#fase-1)
 - [Getting Started](#fase-2)
