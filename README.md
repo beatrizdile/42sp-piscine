@@ -5,6 +5,7 @@
 - [Shell Skills Developed](#shell-skills-developed)
 - [Getting Started](#getting-started)
 - [Guidelines](#guidelines)
+- [Notes](#notes)
 
 ## Description
 The 42 School Piscine is an intensive coding bootcamp that aims to provide hands-on experience in various programming languages and concepts. During the Piscine, participants undertake a series of projects and exercises to strengthen their coding skills, problem-solving abilities, and teamwork.
