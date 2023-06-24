@@ -1,4 +1,12 @@
-# 42 School Piscine
+<h1 align=center>
+  42 Piscine
+ </h1>
+<h2 align=center>
+  piscine
+
+  ![piscine](https://nadei.42sp.org.br/img/InsigneaP3.png)
+
+  </h2>
 
 - [Description](#description)
 - [C Skills Developed](#c-skills-developed)
