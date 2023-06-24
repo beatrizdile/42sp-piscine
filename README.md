@@ -1,7 +1,7 @@
 <h1 align=center>
   42 Piscine
  </h1>
-<h2 align=center>
+<h2 align=center width=50px height=50px>
   piscine
 
   ![piscine](https://nadei.42sp.org.br/img/InsigneaP3.png)
