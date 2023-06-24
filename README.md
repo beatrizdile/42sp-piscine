@@ -4,12 +4,13 @@
 <h2 align=center>
   piscine
 </h2>
+<p align=center>
 <img
-  align=center
   width=150px
   height=150px
   src="https://nadei.42sp.org.br/img/InsigneaP3.png"
   display=block>
+</p>
 - [Description](#description)
 - [C Skills Developed](#c-skills-developed)
 - [Shell Skills Developed](#shell-skills-developed)
