@@ -1,13 +1,15 @@
 <h1 align=center>
   42 Piscine
  </h1>
-<h2 align=center width=50px height=50px>
+<h2 align=center>
   piscine
-
-  ![piscine](https://nadei.42sp.org.br/img/InsigneaP3.png)
-
-  </h2>
-
+</h2>
+<img
+  align=center
+  width=150px
+  height=150px
+  src="https://nadei.42sp.org.br/img/InsigneaP3.png"
+  display=block>
 - [Description](#description)
 - [C Skills Developed](#c-skills-developed)
 - [Shell Skills Developed](#shell-skills-developed)
