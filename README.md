@@ -15,7 +15,7 @@
 ## Description
 The 42 School Piscine is an intensive coding bootcamp that aims to provide hands-on experience in various programming languages and concepts. During the Piscine, participants undertake a series of projects and exercises to strengthen their coding skills, problem-solving abilities, and teamwork.
 
-# C Skills Developed
+## C skills developed
 
 During the 42 School Piscine, participants develop a range of C programming skills. Here are some key skills that are typically honed during the Piscine:
 
@@ -37,7 +37,7 @@ During the 42 School Piscine, participants develop a range of C programming skil
 
 These are just a few examples of the C skills that participants develop during the 42 School Piscine. The Piscine provides a solid foundation in C programming, preparing participants for more advanced programming concepts and projects.
 
-# Shell Skills Developed
+## Shell skills developed
 
 During the 42 School Piscine, participants also develop essential shell skills. Here are some key skills that are typically honed during the Piscine:
 
