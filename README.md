@@ -59,27 +59,14 @@ During the 42 School Piscine, participants also develop essential shell skills. 
 
 These are some of the shell skills that participants typically develop during the 42 School Piscine. Mastery of shell skills is crucial for efficient command-line usage, automation, and scripting, which are essential in various programming and system administration tasks.
 
-## Getting Started
-To get started with the 42 School Piscine, follow these steps:
-
-1. Register for the Piscine through the official 42 School website.
-2. Attend the introductory sessions and familiarize yourself with the rules and guidelines of the Piscine.
-3. Access the Piscine materials and resources provided by the school.
-4. Begin working on the assigned projects and exercises.
-5. Collaborate with your peers, seek help from mentors, and participate actively in group activities.
-6. Submit your completed projects for evaluation within the specified deadlines.
-
-## Guidelines
-During the Piscine, it's important to keep the following guidelines in mind:
+## Notes
+During the Piscine, it's important to keep the following things in mind:
 
 - Manage your time effectively to meet project deadlines.
 - Collaborate with your peers, but avoid excessive code sharing or copying.
 - Follow the guidelines and requirements outlined in each project's subject document.
 - Attend workshops, lectures, and group activities to enhance your learning experience.
 - Seek help from mentors and teaching staff whenever you encounter difficulties.
-Community forums and chat groups: <List of forums and chat groups where you can seek help and discuss coding questions>
-
-## Notes
 - The Piscine is an intense and demanding program. Be prepared to dedicate significant time and effort to complete the assignments.
 - Don't hesitate to ask questions and seek clarification when needed. The Piscine is designed to encourage learning and growth.
 - Embrace the opportunity to work in a collaborative environment and engage with your peers. Learning from and with others can greatly enhance your experience.
