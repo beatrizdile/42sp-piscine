@@ -13,7 +13,7 @@
 </p>
 
 ## Description
-The 42 School Piscine is an intensive coding bootcamp that aims to provide hands-on experience in various programming languages and concepts. During the Piscine, participants undertake a series of projects and exercises to strengthen their coding skills, problem-solving abilities, and teamwork.
+The 42 School Piscine is an intensive coding selection process that aims to provide hands-on experience in various programming languages and concepts. During the Piscine, participants undertake a series of projects and exercises to strengthen their coding skills, problem-solving abilities, and teamwork.
 
 ## C skills developed
 
