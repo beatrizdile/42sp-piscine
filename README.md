@@ -8,7 +8,7 @@
 <img
   width=150px
   height=150px
-  src="https://nadei.42sp.org.br/img/InsigneaP3.png"
+  src="https://github.com/beatrizdile/beatrizdile-utils/blob/master/piscine.png"
   display=block>
 </p>
 
